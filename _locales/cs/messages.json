@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "message": "Přiměje YouTube ke streamování videa H.264 místo VP8/VP9",
+    "message": "Přiměje YouTube ke streamování videa VP8/VP9 místo H.264",
     "description": "Extension description"
   },
 
   "optionsTitle": {
-    "message": "Možnosti h264ify"
+    "message": "Možnosti vp8+vp9ify"
   },
 
   "optionsEnable": {
