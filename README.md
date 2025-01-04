@@ -1,22 +1,18 @@
 <meta property="og:image"
     content="https://raw.githubusercontent.com/erkserkserks/h264ify/master/icons/icon128.png"/>
 
-# h264ify
+# vp9ify
 
 
 ![](https://raw.githubusercontent.com/erkserkserks/h264ify/master/noncode/yt_screenshot.png)
 
 # About
-h264ify is a Chrome/Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
+h264ify is a Chrome/Firefox extension that makes YouTube stream VP8/VP9 videos instead of H.264 videos.
 
-Try h264ify if YouTube videos stutter, take up too much CPU, eat battery life, or make your laptop hot.
-
-By default, YouTube streams VP8/VP9 encoded video. However, this can cause problems with less powerful machines because VP8/VP9 is not typically hardware accelerated.
-
-In contrast, H.264 is commonly hardware accelerated by GPUs, which usually means smoother video playback and reduced CPU usage.
+By default, YouTube streams VP8/VP9 encoded video but there still have avc1 in sometimes make blank in video that play in android x86 so this for fix that
 
 # Requirements
-Google Chrome
+Kiwi browser or browser support extension
 
 Looking for the Firefox version? See: https://github.com/erkserkserks/h264ify-firefox
 
